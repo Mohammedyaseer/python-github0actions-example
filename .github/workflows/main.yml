@@ -37,4 +37,4 @@ jobs:
       run: |
         export PYTHONPATH=src
         pytest
-      shell: bash
+        shell: bash
